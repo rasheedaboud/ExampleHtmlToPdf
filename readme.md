@@ -10,7 +10,7 @@ Its also very trivial to write the same login in F# if that your jam! 😉
 
 1. Install latest [Azure Function Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=linux%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-csharp).
 2. Install [.Net 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
-3. Clone the repo.
+3. Clone the repo `gh repo clone rasheedaboud/ExampleHtmlToPdf`.
 4. `cd` into the project folder and run `dotnet build` and `func host start`.
 
 ## Caveats
