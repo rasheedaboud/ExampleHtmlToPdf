@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ExampleHtmlToPdf": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7169",
+      "launchBrowser": false
+    }
+  }
+}
